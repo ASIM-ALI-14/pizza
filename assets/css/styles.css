@@ -252,7 +252,7 @@ img {
 /*=============== HOME ===============*/
 .home-container {
   position: relative;
-  row-gap: 7rem;
+  row-gap: 6rem;
 }
 
 .home-data {
